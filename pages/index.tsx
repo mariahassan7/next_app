@@ -24,7 +24,7 @@ export default function Home() {
                   <div className={styles.image}>
                             <Image
                               src="/Next.png"
-                              alt="Vercel Logo"
+                              alt="Educative's App"
                               width={700}
                               height={300}                     
                             />
